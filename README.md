@@ -4,6 +4,7 @@
 - 🔭 Atualmente estagiário de Tecnologia da Informação
 - 🌱 Estudo sobre desenvolvimento e Ciber Security
 - 😄 Pronouns: Ele/Dele
+- Obs: Em fase de edição
 
 <div>
   <a ref="https://github.com/yurifabress">
